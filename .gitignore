@@ -19,7 +19,8 @@ lib64/
 parts/
 sdist/
 var/
-data/
+data/BraTS2020_TrainingData
+data/BraTS2020_ValidationData
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
