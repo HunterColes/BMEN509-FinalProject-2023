@@ -22,6 +22,8 @@ var/
 data/BraTS2020_TrainingData
 data/BraTS2020_ValidationData
 data/Processed_Data
+data/CXR_png
+data/masks
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
